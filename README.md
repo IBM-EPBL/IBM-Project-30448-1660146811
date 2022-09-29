@@ -2,6 +2,7 @@
 Smart Waste Management System For Metropolitan Cities
 
 Technology : IoT
+
 Team Id : PNT2022TMID16239
 
 Team Members
